@@ -8,11 +8,11 @@ public class DataType {
         System.out.println(n);
         char ch = 'a';
         System.out.println(ch);
-        boolean var = true;
-        float price = 10.5f;
-        int number = 21;
+        // boolean var = true;
+        // float price = 10.5f;
+        // int number = 21;
         // long
         // double
-        
+
     }
 }

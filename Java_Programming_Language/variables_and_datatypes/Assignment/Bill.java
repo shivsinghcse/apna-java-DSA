@@ -8,7 +8,7 @@ public class Bill {
         float pencil = sc.nextFloat();
         float pen = sc.nextFloat();
         float eraser = sc.nextFloat();
-
+        sc.close();
         float total = pen + pencil + eraser;
         float gst = total * 1.8f;
 

@@ -7,7 +7,7 @@ public class Sum_UserInput {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-
+        sc.close();
         int sum = a + b;
         System.out.println(sum);
     }

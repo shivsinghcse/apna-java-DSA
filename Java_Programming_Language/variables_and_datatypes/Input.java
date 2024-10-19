@@ -16,5 +16,6 @@ public class Input {
 
         float price = sc.nextFloat();
         System.out.println(price);
+        sc.close();
     }
 }
