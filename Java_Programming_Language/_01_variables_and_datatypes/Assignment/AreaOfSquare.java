@@ -1,4 +1,4 @@
-package Java_Programming_Language.variables_and_datatypes.Assignment;
+package Java_Programming_Language._01_variables_and_datatypes.Assignment;
 
 import java.util.Scanner;
 
